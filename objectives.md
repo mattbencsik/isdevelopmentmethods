@@ -19,4 +19,8 @@ Define the problem?
 
 Empathy Maps (Issues and Requirements) 
 
+POV:
+User - the end-customer (or potential customer) that wants to purchase a holiday package 
+Need - to match the Profiler Tool with the RM's profile and skills matrix 
+Insight - customer's need RM's with rich knowledge (eg. particular destination they are wanting to travel to) 
 
