@@ -1,6 +1,6 @@
 Statement:
 
-The Travel Company's goal is to implement a system that will deliver high level Relationship Managers (RM) from the call management centre to the end-customer during their call, to effectively increase customer satisfaction. This system will provide assistance to RM's by matching customer profiles from 'Profiler Tool' with the RM's built profile and skill matrix, in order to deliver maximum performance in sales of holiday packages. 
+The Travel Company's goal is to implement a system that will deliver high level Relationship Managers (RM) from the call management centre to the end-customer (during the call), to effectively increase customer satisfaction. This system will provide assistance to RM's by matching customer profiles from 'Profiler Tool' with the RM's built profile and skill matrix, in order to deliver maximum performance in sales of holiday packages. 
 
 
 
