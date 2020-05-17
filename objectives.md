@@ -14,6 +14,12 @@ Objectives - (include KPIs):
 - Increase purchases of holiday packages by 20% in the next 2 months. 
 - Customers will be matched with the most suitable Relationship Managers between 30 seconds to a 1 minute waiting time 
 
+
+Assumptions Made:
+- There is a system developer who maintains and improves the system
+- 
+
+
 Define the problem? 
 
 
