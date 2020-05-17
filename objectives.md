@@ -10,8 +10,8 @@ Objectives:
 - The system will adjust an RM's profile within 20 minutes - 30 minutes after every call performance in selling packages and providing effective customer service. 
 
 
-Empathy Maps (Issues and Requirements):
-(need to include Empathy Maps....) 
+Assumptions:
+- the system developer helps maintain the system.
 
 
 POV - Customer:
