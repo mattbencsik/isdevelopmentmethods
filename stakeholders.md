@@ -9,7 +9,3 @@ A second key stakeholder is the customer. The customer of the call management ce
 Another stakeholder is the system developer. The developer is responsible for ensuring the system is maintained and of the highest quality and effiencienty everyday. They create the guideline or script that an RM uses to help facilitate the sale of a holiday package to a customer. This must be perfect as any problem in the script or guideline could be detrimental to the possibility of a sale. The developer must also ensure the customer ranking scores are kept private to the business to ensure no leaking of private information. Also, the confidential information such as customer bank accounts and credit cards must be protected by the system to ensure no breach of consumer privacy is made. The developer needs to furthermore ensure the system matches a RM to a customer based on the RM's skill levels to increase overall efficiency of a potential sale. The Interactive Voice Response must also be maintained so that during high-traffic periods, a customer can respond to a set criteria of questions made by the system so that the customer can be transferred to the next best-matched avaliable RM. 
 
 
-
-Random Sentence
-
-Test 2
