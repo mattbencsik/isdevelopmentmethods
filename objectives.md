@@ -11,7 +11,7 @@ Objectives:
 
 
 Assumptions:
-- there's a system developer that maintains and improves the system.
+- tThere's a system developer that maintains and improves the system.
 
 
 POV - Customer:
