@@ -11,11 +11,6 @@ Objectives:
 - The system developer will have this system implemented in the company in 1 months time. 
 
 
-Assumptions:
-- There's a system developer that maintains and improves the system.
-- RM's have different areas of expertise (eg. can solve refunds) 
-- After a call is finished, RM's fill out an issue form (customer's area of interest, whether they sold the package or not) - this updates the RM and customer profile 
-
 POV - Customer:
 User - the end-customer (or potential customer) that wants to purchase a holiday package 
 Need -  customer's need RM's with rich knowledge (eg. particular destination they are wanting to travel to) 
