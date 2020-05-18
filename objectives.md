@@ -7,12 +7,14 @@ Objectives:
 
 - Increase purchases of holiday packages by 20% in the next 2 months during inbound and outbound calls. 
 - Direct customer calls to the most suitable Relationship Manager (RM) available within a 30 seconds to a 2 minute wait time. 
-- The system will adjust an RM's profile within 20 minutes - 30 minutes after every call performance in selling packages and providing effective customer service. 
+- The system will adjust the RM and customer profile within 20 minutes - 30 minutes after every call, once the RM has filled the issue form (clarified in Part 5 - Assumptions) 
+- The system developer will have this system implemented in the company in 1 months time. 
 
 
 Assumptions:
 - There's a system developer that maintains and improves the system.
-
+- RM's have different areas of expertise (eg. can solve refunds) 
+- After a call is finished, RM's fill out an issue form (customer's area of interest, whether they sold the package or not) - this updates the RM and customer profile 
 
 POV - Customer:
 User - the end-customer (or potential customer) that wants to purchase a holiday package 
