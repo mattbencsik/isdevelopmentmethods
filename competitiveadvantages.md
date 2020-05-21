@@ -4,6 +4,7 @@ One of the main attributes towards the success of a company is being able to out
 
 
 1. Increased Speed / Decrease in Customer waitime 
+
 The system will improve call routing and dynamic call flow control for inbound and outbound calls, which will lend itself to an efficent sales process. Providing RM's with the customer's profile and a script within seconds, will decrease lead times and increase their delivery in selling the travel packages. Nonetheless, as RM's will be more convincing from obtaining the approriate knowledge of the customer and their enquiry from the company's 'Profiler Tool' in a short time frame, this will increase customer retention.  Customers won't have to wait long periods for RM's to understand the customer's needs and wants and therefore RM's will be able to act efficiently, which will increase their professionalism. In busy periods, an Interactive Voice Response unit will engage with the customer on the call, which will give them the opportunity to provide any additional information and prompt them for options. This information will reduce customer waitime, as the call will automatically redirect them to the first available appropriate RM. 
 
 
