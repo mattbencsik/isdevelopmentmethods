@@ -1,9 +1,13 @@
 Competitive Advantages:
 
-One of the main attributes towards the success of a company is being able to outperform its competitors in the industry. The system's new ability to appropriately match customers with Relationship Managers with the highest knowledge and skills related to the customer's enquiry (country, language) has resulted in multiple competitive advantages for the company.
+One of the main attributes towards the success of a company is being able to outperform its competitors in the industry. The system's new ability to appropriately match customers with Relationship Managers with the highest knowledge and skills related to the customer's enquiry (eg. chosen destination) has resulted in multiple competitive advantages for the company.
 
 
-1. Increased Customer Satisfaction 
+1. Decrease in Customer waitime 
+The system will improve call routing and dynamic call flow control for inbound and outbound calls. Providing RM's with the customer's profile and a script in a matter of seconds will decrease lead times and increase the delivery of selling the travel packages. 
+
+
+2. Increased Customer Satisfaction 
 
 
 
