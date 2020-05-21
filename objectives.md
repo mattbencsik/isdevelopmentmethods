@@ -11,13 +11,3 @@ Objectives:
 - The system developer will have this system implemented in the company in 1 months time. 
 
 
-POV - Customer:
-User - the end-customer (or potential customer) that wants to purchase a holiday package 
-Need -  customer's need RM's with rich knowledge (eg. particular destination they are wanting to travel to) 
-Insight - customers aren't being convinced enough by RM's performance in selling packages during their calls. 
-
-POV - Employee: 
-User - the RM from the call management centre trying to sell holiday packages 
-Need - to have well informed RM's delivering high level information to the right customer
-Insight - currently RM's aren't being effectively matched with the end-customer (there needs to be a system that matches the customer Profiler Tool and the RM's profile and skills matrix)
-
