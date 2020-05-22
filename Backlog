@@ -23,6 +23,9 @@ As a customer, I want to be recognised for my loyalty to the business, so that I
 
 As a customer, I want to talk to someone with relevant knowledge, so that I can make an informed purchase decision.
   - Solution: Interactive Voice Response/Call Distributor, RM-Customer Profiling
+  
+As a customer, I want to talk to an employee I have previously met, so that I can make another purcahse of a holiday package. 
+  - Solution: System generated RM skill-score, Customer profiler
 
 
 Point of View: 
