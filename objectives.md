@@ -6,12 +6,9 @@ A major Travel Company is wanting to improve their customer service skills durin
 Objectives:
 
 - Increase purchases of holiday packages by 20% in the next 2 months during inbound and outbound calls. 
-- Direct customer calls to the most suitable Relationship Manager (RM) available within a 30 seconds to a 2 minute wait time. 
-- The system will adjust an RM's profile within 20 minutes - 30 minutes after every call performance in selling packages and providing effective customer service. 
+- Decrease per-call handling time so that RM's are more efficient during their shifts (more calls per day)
+- Increase customer retention by matching high skilled and appropriate RM's to the customer 
 
-
-Assumptions:
-- There's a system developer that maintains and improves the system.
 
 
 POV - Customer:
