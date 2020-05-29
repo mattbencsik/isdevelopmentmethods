@@ -5,9 +5,10 @@ A major Travel Company is wanting to improve their customer service during their
 
 Objectives:
 
-- Increase purchases of holiday packages by 20% in the next 2 months during inbound and outbound calls.
+- Increase purchases of holiday packages by 20% in the next 2 months during inbound and outbound calls
 - Decrease per-call handling time so that RM's are more efficient during their shifts (more calls per day)
 - Increase customer retention by matching high skilled and appropriate RM's to the customer 
 - Improve customer service skills by providing RM's with a script and guidelines that suits the customer's enquiry
+- Continuously update RM skill score after each call performance to have the most accurate data in the system
 
 
