@@ -1,4 +1,6 @@
-User stories:
+# Backlog
+
+## User stories:
 
 As a Relationship Manager, I want to measure my sales performance, so that I can track areas for improvement.
   - Solution: System generated RM skill-score/profile generation.
@@ -28,19 +30,19 @@ As a customer, I want to talk to an employee I have previously met, so that I ca
   - Solution: System generated RM skill-score, Customer profiler
 
 
-Point of View: 
+## Point of View: 
 
-POV - Customer:
+### POV - Customer:
 User - the end-customer (or potential customer) that wants to purchase a holiday package 
 Need -  customer's need RM's with high level skills and knowledge (eg. knowledge of the particular destination they are wanting to travel to) 
 Insight - customers aren't being convinced enough by RM's performance in selling packages during their calls. 
 
-POV - Relationship Manager: 
+### POV - Relationship Manager: 
 User - the RM from the call management centre trying to sell holiday packages 
 Need - to grow knowledge and deliver high level information to the right customer
 Insight - currently RM's aren't performing to their best standard and current sales have been stagnant 
 
-How Might We (HMW) Statements:
+## How Might We (HMW) Statements:
 
 - How might we improve RM empathic intelligence  
 - How might we improve RM communication skills and product knowledge
