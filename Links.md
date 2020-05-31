@@ -1,5 +1,4 @@
-## [Empathy Maps:](https://miro.com/welcomeonboard/dzPhUZ9wxChNjJfBu6uKLr4MzsoWm0i28suNpxKC8G2lV7hMry8sCtxTl4uy25mi
-)
+## Empathy Maps:
 
 https://miro.com/welcomeonboard/dzPhUZ9wxChNjJfBu6uKLr4MzsoWm0i28suNpxKC8G2lV7hMry8sCtxTl4uy25mi
 
