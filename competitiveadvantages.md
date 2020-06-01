@@ -1,4 +1,4 @@
-Competitive Advantages:
+# Competitive Advantages
  
 One of the main attributes towards the success of a company is being able to outperform its competitors in the industry. The call management centre separates itself from its competitors in several ways.
  
@@ -16,7 +16,7 @@ The call management centre’s allows for an increase in brand loyalty by implem
 Call efficiency is a primary way that the call management centre distinguishes itself from its competitors. The system creates a script/guideline corresponding to the customer’s pre analysed profile, to help RM’s maintain only essential conversation to best deliver a sale. Additionally, the system dials the customer number for outbound calls automatically, saving time for an employee to look up and study the customer information, leading to more calls being made per day and thus increased holiday package sales overall.  In busy periods, an Interactive Voice Response unit is used to queue customers and interact with them while they wait to be served by retrieving any other additional information relating to their query. This will increase the efficiency of the call as the RM’s will be able to obtain more knowledge on the customer’s query prior to the call being connected. 
  
  
-Effects If The Project/System Fails:
+# Effects If The Project/System Fails
  
 For the call management centre, there would be drastic effects to the business if the internal system fails. Not only is the system an integral part of the business model, but it is crucial to the success and profitability of the business.
  
