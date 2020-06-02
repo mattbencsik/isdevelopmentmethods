@@ -91,19 +91,15 @@ GitHub allows for each team member to provide their own commits to the project w
 
 ## Competitive Advantages
  
-One of the main attributes towards the success of a company is being able to outperform its competitors in the industry. The call management centre separates itself from its competitors in several ways.
+Stakeholders are any individual or parties that are directly affected by the final outcome of a product or system, and for the CMC, there are a variety of stakeholders. 
  
-1. 	Cost-effectiveness
-
-The new system allows for the call centre to become more cost-effective. This primarily comes from the reduction of per-call handling time, allowing for more consumers to be reached, increasing the potential of sales oh holiday packages. Also, increasing call amounts per day, it reduces overall weekly wages for employees as there is no need to pay staff to work longer hours. 
+The Relationship Manager (RM) is a key stakeholder that is responsible for the selling of a holiday package to a customer through the communication means of telephone call; either an inbound or an outbound call. An RM uses a script or guideline, provided by the system, to help improve the overall customer service in the process of selling a holiday package to the customer. The RM's are ultimately responsible for the selling of a holiday package to a customer. 
  
-2. 	Brand Loyalty
-
-The call management centre’s allows for an increase in brand loyalty by implementing a system that ranks a customer with a score from 1-10. This ensures that the customers with the highest scores are served first; the higher the score, the higher the potential to purchase a holiday package. Furthermore, with customers that have previously purchased a package before, they have an increased tendency to re-purchase, due to receiving high quality customer service experience from their previous purchase.
+A second stakeholder is the customer who either receives a phone call from an RM to purchase a holiday package or the customer calls the centre and notifies the RM of their desire to purchase a holiday package. The system ranks them with a score between 1-10; the higher the score, the higher the likeliness of a customer to purchase a package, and thus can determine the amount of sales for the CMC. 
  
-3. 	Call Efficiency
-
-Call efficiency is a primary way that the call management centre distinguishes itself from its competitors. The system creates a script/guideline corresponding to the customer’s pre analysed profile, to help RM’s maintain only essential conversation to best deliver a sale. Additionally, the system dials the customer number for outbound calls automatically, saving time for an employee to enter the details manually and waste precious sales time. In busy periods, an ‘Interactive Voice Response Unit’ is used to queue customers and interact with them while they wait to be served by retrieving any other additional information relating to their query. This will increase the efficiency of the call as the RM’s will be able to obtain more knowledge on the customer’s query prior to the call being connected. 
+Another stakeholder is the system developer. The developer is responsible for ensuring the system is maintained of the highest quality and efficiency. They create the guideline or script that an RM uses to help facilitate the sale of a holiday package to a customer. Also, the developer must ensure the confidential information of customers is safeguarded. The developer needs to  ensure the system matches a RM to a customer based on the RM's skill levels to increase overall efficiency of a potential sale. The Interactive Voice Response must also be maintained so that during high-traffic periods so that the customer can be transferred to the next best-matched available RM.
+ 
+The system that is the backbone of the call management centre that is essential for running the business. It forwards calls to match RM's with great product knowledge and conversational skills through a target list with customers to ensure the highest possibility of a potential sale. Furthermore, the system has a Profiler Tool. This stores both personal information and experience of an RM to ensure they are matched with the right customer on either an inbound or outbound call. The system also uses a call routing mechanism which helps minimise costs of calls inbound to the business to help with overhead cost management. It also makes a criterion for a customer, which ranks them with a score from 1-10, based on their likelihood to purchase a product. 
   
 
 ## Effects If The Project/System Fails
