@@ -122,7 +122,7 @@ Diagram | Link
 **Class Diagram** | https://app.lucidchart.com/documents/view/34ca8009-2f17-457c-ba90-75349f143d69/HWEp-vi-RSFO
 **Inbound Collaborative Diagram** | https://app.lucidchart.com/documents/view/70212197-db0a-4785-b6d9-f15bdc9fed05#
 **Outbound Collaborative Diagram** | https://app.lucidchart.com/documents/view/ac39b509-3d78-4a51-8c6c-da6260872f2d/0_0
-**Inbound Sequence Diagram** | 
-**Outbound Sequence Diagram** | 
+**Inbound Sequence Diagram** | https://app.lucidchart.com/documents/view/c6e864cb-faa0-48d0-b1ba-17e96011fd13/0_0
+**Outbound Sequence Diagram** | https://app.lucidchart.com/documents/view/96a525a7-22f3-431c-a8ad-22fcc731e150/0_0
 
 
