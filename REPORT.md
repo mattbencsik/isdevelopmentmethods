@@ -112,37 +112,14 @@ There will be no computer matching between an RM and a customer. This means that
 
 Furthermore, during busy call times, there would be no ‘Interactive Voice Response Unit’ and thus no automatic call distributor to help queue and manage a large volume of customer calls. This will result in customers hanging up the phone if they are unwilling to wait in which they may not call back. Customers could move to competitor businesses, decreasing sales for the CMC.
 
-## Empathy Maps:
 
-https://miro.com/app/board/o9J_ksErVdY=/
-
-
-## Use Case Diagram:
-
-https://app.lucidchart.com/invitations/accept/7222f627-af9a-4646-afca-dc9503d9f8e2
-
-
-## Activity Diagrams and Class Diagrams:
-
-https://app.lucidchart.com/invitations/accept/b2e0c826-1425-4320-80d6-f048644afef5
-
-
-## Inbound Calls Sequence Diagram
-
-https://app.lucidchart.com/invitations/accept/843f423d-0af5-4471-a933-90abc18add93
-
-
-## Outbound Calls Sequence Diagram
-
-https://app.lucidchart.com/invitations/accept/3f9bf607-ecdd-4272-bb7e-e2bed97889d8
-
-
-## Inbound Calls Collaborative Diagram
-
-https://app.lucidchart.com/documents/edit/dc6c1524-740d-417f-8589-1c75f33f34c4/Flu3MiVjQhjq?shared=true
-
-
-## Outbound Calls Collaborative Diagram 
-
-https://app.lucidchart.com/documents/edit/dc6c1524-740d-417f-8589-1c75f33f34c4/Yuv3r5RU4B1n?shared=true
+Diagram | Link
+------------ | -------------
+**Empathy Maps** | https://miro.com/app/board/o9J_ksErVdY=/
+**Use Case Diagram** | https://app.lucidchart.com/invitations/accept/7222f627-af9a-4646-afca-dc9503d9f8e2
+**Activity and Class Diagrams** | https://app.lucidchart.com/invitations/accept/b2e0c826-1425-4320-80d6-f048644afef5
+**Inbound Calls Sequence Diagram** | https://app.lucidchart.com/invitations/accept/843f423d-0af5-4471-a933-90abc18add93
+**Outbound Calls Sequence Diagram** | https://app.lucidchart.com/invitations/accept/3f9bf607-ecdd-4272-bb7e-e2bed97889d8
+**Inbound Calls Collaborative Diagram** | https://app.lucidchart.com/documents/edit/dc6c1524-740d-417f-8589-1c75f33f34c4/Flu3MiVjQhjq?shared=true
+**Outbound Calls Collaborative Diagram** | https://app.lucidchart.com/documents/edit/dc6c1524-740d-417f-8589-1c75f33f34c4/Yuv3r5RU4B1n?shared=true
 
