@@ -1,6 +1,6 @@
 ## Empathy Maps:
 
-https://miro.com/welcomeonboard/dzPhUZ9wxChNjJfBu6uKLr4MzsoWm0i28suNpxKC8G2lV7hMry8sCtxTl4uy25mi
+https://miro.com/app/board/o9J_ksErVdY=/
 
 
 ## This is the link to the Use Case Diagram, we can all make changes to it via this
