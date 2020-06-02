@@ -3,7 +3,7 @@
 https://miro.com/app/board/o9J_ksErVdY=/
 
 
-## This is the link to the Use Case Diagram, we can all make changes to it via this
+## Use Case Diagram:
 
 https://app.lucidchart.com/invitations/accept/7222f627-af9a-4646-afca-dc9503d9f8e2
 
