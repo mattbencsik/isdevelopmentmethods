@@ -71,6 +71,23 @@ POV | Customer | Relationship Manager
 - How might we provide a competitive edge from other competing services 
 
 
+## Design Thinking
+
+Our project exploits a design thinking approach, which is a non-linear, solution-based process to solving problems. It iterates through stages of empathy, problem definition, ideation, prototyping and testing with aim to obtain a final product.
+
+During the empathy stage, empathy maps were created to further analyse the stakeholders, how they are affected by the system and to gain a better understanding of their feelings. We gathered that the RM was mainly concerned with the customer, their rating and selling to them. Whereas, customers focus on themselves; budget, potential enjoyment, and experiences. System developers’ primary goal is to develop a functional system, under time and cost constraints, aiming to satisfy their customer. Finally, the system empathy map shows the pains including any errors or corrupted files and inefficient use of the system and the gains such as increased sales, improved system performance and user interaction through profiling.
+
+Empathising led us to define the problem, starting with the POV statements of the Customer and RM. These are inferences made based on empathising stages (and later stages of design thinking). The customer reveals a need for highly skilled and knowledgeable RM’s who can effectively inform them of their travel package. An insight from customers is that they are limited by the RM’s performance and thus will be unconvinced to purchase the package. Whereas, insights from the RM show potential underperformance and therefore, need to boost their delivery skills and knowledge. Then the backlog of user stories was created and prioritised to help define the problem which includes the ineffective call flow rates and inefficient call routing.  
+
+In the ideate stage, HMW statements were made which spark inspiration for solutions to the above problem. The iterative nature of design thinking allowed us to redefine the problem and improve the objectives in the previous stage. As it is difficult to test an un-interactive, intangible prototype, models are analysed to further improve ideas and better understand the problem and perspective of the users.
+
+
+## Scrum Methodology
+
+Scrum is an iterative and incremental process used in projects with activities undertaken to ensure requirements and solutions are constantly evolving. Although an application was not being developed, GitHub and Scrum methodologies were used to understand Agile in the industry. The iterations were made by separate branches in GitHub, recording the logic using commit messages. The backlog of user stories followed by POV and HMW statements correlate to the stages before the scrum sprints. The next stage of models and prototypes were built to reflect the iterative sprints of the product being built considering a tangible product couldn’t be created.
+
+GitHub allows for each team member to provide their own commits to the project which are reviewable before we merge them onto the branch. This gave us the extensibility when changes occurred and allowed us to easily adapt to changes in the requirements. Also, raising “Issues” makes it easier for members to view any problems, errors and thus, fix them in future iterations (robustness). Agile methods also require the team to track the progress tasks to be completed, in progress and completed. This is achieved in the projects tab of GitHub where cards can be created and assigned to prevalent sections.
+
 ## Competitive Advantages
  
 One of the main attributes towards the success of a company is being able to outperform its competitors in the industry. The call management centre separates itself from its competitors in several ways.
@@ -95,22 +112,3 @@ For the call management centre, there would be drastic effects to the business i
 There will be no computer matching between an RM and a customer. This means that random customers will call/be called by a random RM that are not best suited to aid the potentiality of a holiday package sale. This leads to no script/guideline appearing during an outbound call, which leads to decreasing the efficiency of the RM’s performance. This requires the employee to improvise and learn about the customer and their potential to purchase a holiday package during the call, decreasing overall customer relationship management.
  
 Furthermore, during busy call times, there would be no ‘Interactive Voice Response Unit’ and thus no automatic call distributor to help queue and manage a large volume of customer calls. This will result in customers hanging up the phone if they are unwilling to wait in which they may not call back. Customers could move to competitor businesses, decreasing sales for the CMC. 
-
-
-## Design Thinking
-
-Our project exploits a design thinking approach, which is a non-linear, solution-based process to solving problems. It iterates through stages of empathy, problem definition, ideation, prototyping and testing with aim to obtain a final product.
-
-During the empathy stage, empathy maps were created to further analyse the stakeholders, how they are affected by the system and to gain a better understanding of their feelings. We gathered that the RM was mainly concerned with the customer, their rating and selling to them. Whereas, customers focus on themselves; budget, potential enjoyment, and experiences. System developers’ primary goal is to develop a functional system, under time and cost constraints, aiming to satisfy their customer. Finally, the system empathy map shows the pains including any errors or corrupted files and inefficient use of the system and the gains such as increased sales, improved system performance and user interaction through profiling.
-
-Empathising led us to define the problem, starting with the POV statements of the Customer and RM. These are inferences made based on empathising stages (and later stages of design thinking). The customer reveals a need for highly skilled and knowledgeable RM’s who can effectively inform them of their travel package. An insight from customers is that they are limited by the RM’s performance and thus will be unconvinced to purchase the package. Whereas, insights from the RM show potential underperformance and therefore, need to boost their delivery skills and knowledge. Then the backlog of user stories was created and prioritised to help define the problem which includes the ineffective call flow rates and inefficient call routing.  
-
-In the ideate stage, HMW statements were made which spark inspiration for solutions to the above problem. The iterative nature of design thinking allowed us to redefine the problem and improve the objectives in the previous stage. As it is difficult to test an un-interactive, intangible prototype, models are analysed to further improve ideas and better understand the problem and perspective of the users.
-
-
-## Scrum Methodology
-
-Scrum is an iterative and incremental process used in projects with activities undertaken to ensure requirements and solutions are constantly evolving. Although an application was not being developed, GitHub and Scrum methodologies were used to understand Agile in the industry. The iterations were made by separate branches in GitHub, recording the logic using commit messages. The backlog of user stories followed by POV and HMW statements correlate to the stages before the scrum sprints. The next stage of models and prototypes were built to reflect the iterative sprints of the product being built considering a tangible product couldn’t be created.
-
-GitHub allows for each team member to provide their own commits to the project which are reviewable before we merge them onto the branch. This gave us the extensibility when changes occurred and allowed us to easily adapt to changes in the requirements. Also, raising “Issues” makes it easier for members to view any problems, errors and thus, fix them in future iterations (robustness). Agile methods also require the team to track the progress tasks to be completed, in progress and completed. This is achieved in the projects tab of GitHub where cards can be created and assigned to prevalent sections.
-
